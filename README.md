@@ -1,13 +1,12 @@
 # WAT
-example code for loopback dacorator logger
+Example code for loopback decorator logger
 based on 
 ```bash
 lb4 example
 ```
 
-Please take a look 
-src/decorators/log.ts
-```
+### Please take a look 
+```src/decorators/log.ts```
 
 
 # @loopback/example-express-composition
